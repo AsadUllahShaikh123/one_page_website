@@ -1,10 +1,15 @@
 import React from 'react'
+import Home from './components/Home'
+import Projects from './components/Projects'
+import Services from './components/Services'
 
 function App() {
   return (
-    <div>
-      <h1 className='text-blue-500'>Helo From Tailwind </h1>
-    </div>
+    <>
+      <Home/>
+      <Services/>
+      <Projects/>
+    </>
   )
 }
 
