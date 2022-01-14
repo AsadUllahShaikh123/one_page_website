@@ -6,7 +6,7 @@ function Projects() {
     <div className='mt-60'>
       <div className='flex flex-col  items-center w-full'>
         <p className='text-5xl font-mono mb-2 '>PRO<span className='text-red-600'>J</span>ECTS</p>
-        <div className='h-2 w-1/6 bg-gray-500 rounded-full mb-10'>
+        <div className='h-1 w-1/6 bg-gray-300 rounded-full mb-10'>
 
         </div>
       </div>

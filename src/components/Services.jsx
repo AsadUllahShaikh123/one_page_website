@@ -6,7 +6,7 @@ function Services() {
         <div className='mt-44'>
             <div className='flex flex-col w-full items-center mb-16'>
                 <h1 className='text-5xl font-mono mb-2 '>SERV<span className='text-red-600'>I</span>CES</h1>
-                <div className='h-2 w-1/6 bg-gray-500 rounded-full mb-10'>
+                <div className='h-1 w-1/6 bg-gray-300 rounded-full mb-10'>
 
                 </div>
                 <p className='w-1/2 text-center font-mono'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae reiciendis fuga eos ipsam dolore, autem maxime? Expedita nihil repellat, voluptatibus eum aperiam, delectus facere placeat laboriosam tempore labore, sed repudiandae hic alias.</p>
