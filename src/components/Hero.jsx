@@ -4,13 +4,13 @@ import React from 'react'
 function Hero() {
     return (
         <Container>
-            <div className='text-gray-300 text-5xl font-bold leading-normal flex  w-1/2 items-center justify-center flex-col h-screen '>
+            <div className='text-gray-300 text-5xl font-bold leading-normal font-mono flex  w-1/2 items-center justify-center flex-col h-screen '>
                 <h1>
-                    Hello ,
+                    Hello,
                     <br />
                     My Name is
                     <br />
-                    ASADULLAH
+                    Asadullah
                 </h1>
                 <div style={{ width: '50%' }}>
                     <Button fullWidth variant='contained' sx={{ color: 'white', fontSize: '1.1rem', fontWeight: 'bold' }} >

@@ -3,7 +3,7 @@ import ImageComponent from './ImageComponent'
 import SubComponent from './SubComponent'
 function Projects() {
   return (
-    <div className='mt-16'>
+    <div className='mt-60'>
       <div className='flex flex-col  items-center w-full'>
         <p className='text-5xl font-mono mb-2 '>PRO<span className='text-red-600'>J</span>ECTS</p>
         <div className='h-2 w-1/6 bg-gray-500 rounded-full mb-10'>
