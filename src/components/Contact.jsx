@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div className='mt-44 mb-32'>
       <div className='flex flex-col items-center justify-center w-full'>
-        <h1 className='text-6xl font-mono text-gray-600 mb-2'>CONTACT <span className='text-blue-500'>ME</span></h1>
+        <h1 className='text-6xl font-mono text-gray-600 mb-2'>CONTACT <span className='text-blue-500'>INFO</span></h1>
         <div className='h-1 w-1/4 bg-gray-300 rounded-full mb-10'>
 
         </div>
